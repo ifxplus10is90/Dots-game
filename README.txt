@@ -1,0 +1,1 @@
+This is my first project. I'm from Belarus, and that's a reason, why this project uses Russian language. Will add English soon
